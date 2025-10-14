@@ -1,0 +1,16 @@
+.header__top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top:34px ;
+
+}
+
+.header__logo{
+    width: 32px;
+    height: 32px;
+}
+
+.header__top-text{
+    margin-top: calc(54px - 34px);
+}
